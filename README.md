@@ -12,6 +12,9 @@
 ### Orçamento
 - 1000€
 
+### Usa este site para planear o PC
+https://pt.pcpartpicker.com/
+
 ### Componentes
 - CPU - importante!
     - [Intel Core i7-14700K (pcdiga)](https://www.pcdiga.com/processador-intel-core-i7-14700k-14-geracao-raptor-lake-refresh-20-core-2-5ghz-c-turbo-5-6ghz-33mb-cache-skt1700-bx8071514700k-5032037278485) (479,90 €) - melhor performance, mas mais para uso profissional
